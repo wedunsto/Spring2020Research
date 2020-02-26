@@ -1,0 +1,13 @@
+version = unresolved
+================================================================
+2020-02-26 10:07:25 [main] [INFO]  KGenProgMain - entered the era of 1st generation.
+2020-02-26 10:07:25 [main] [INFO]  KGenProgMain - 
+----------------------------------------------------------------
+Elapsed time: 0 seconds
+Variants: generated 0, build-succeeded 0, build-failed 0, syntax-invalid 0, redundant 0
+Fitness: max --, min --, ave NaN
+
+Method of approach:
+java -jar ../../../KGenProg/kGenProg-1.5.5.jar -r ./ -s src/Main.java -t src/BadBugTest0226.java
+
+if current directory is in the right above the test and source file.
